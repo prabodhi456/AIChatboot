@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1714573603 source:c:\users\asus\desktop\c++ internship\aichatbot\4thtask.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
+1714573619 source:c:\users\asus\desktop\c++ internship\aichatbot\main.cpp
+
